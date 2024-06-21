@@ -1,2 +1,2 @@
 # asm
-python implement of asm
+python implement of adaptive smoothing method
